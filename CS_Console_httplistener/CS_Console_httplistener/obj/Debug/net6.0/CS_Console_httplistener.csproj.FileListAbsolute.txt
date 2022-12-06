@@ -1,0 +1,15 @@
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\bin\Debug\net6.0\CS_Console_httplistener.exe
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\bin\Debug\net6.0\CS_Console_httplistener.deps.json
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\bin\Debug\net6.0\CS_Console_httplistener.runtimeconfig.json
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\bin\Debug\net6.0\CS_Console_httplistener.dll
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\bin\Debug\net6.0\CS_Console_httplistener.pdb
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.AssemblyInfo.cs
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.dll
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\refint\CS_Console_httplistener.dll
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.pdb
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\CS_Console_httplistener.genruntimeconfig.cache
+C:\Users\devel\Desktop\CS_Console_httplistener\CS_Console_httplistener\obj\Debug\net6.0\ref\CS_Console_httplistener.dll
